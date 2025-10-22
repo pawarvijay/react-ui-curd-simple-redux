@@ -1,0 +1,6 @@
+use yarn instead of npm
+create simple crud app in nextjs
+use simple react-redux library for state management
+so not use toolkit library
+use react-bootstrap for UI components
+do not add any testcases
